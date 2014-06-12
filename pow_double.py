@@ -11,8 +11,6 @@ def mpow(i,k):
 exit = 1
 while exit:
     fu = input('Please enter a function:')
-    in1 = 1
-    in2 = 1
     if fu == "pow":
         in1 = input('get value:')
         print(pow(int(in1)))
