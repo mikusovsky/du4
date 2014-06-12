@@ -1,5 +1,6 @@
 def pow(i):
-    return i*i
+    res = i*i
+    return res
 
 def mpow(i,k):
     res = 1;
