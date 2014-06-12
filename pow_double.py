@@ -8,6 +8,9 @@ def mpow(i,k):
         res *= i
     return res
 
+print(pow(2))
+print(mpow(2,2))
+
 exit = 1
 while exit:
     fu = input('Please enter a function:')
