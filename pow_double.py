@@ -10,6 +10,9 @@ def mpow(i,k):
 
 print(pow(2))
 print(mpow(2,2))
+print(pow(3))
+print(mpow(3,2))
+
 
 exit = 1
 while exit:
