@@ -8,15 +8,15 @@ def mpow(i,k):
         res *= i
     return res
 
-def empow(x,n):
-        if n==0:
+def empow(i,k):
+        if k==0:
             return 1
-        elif n==1:
+        elif k==1:
             return x
-        t = empow(x,n/2)
+        t = empow(i,k/2)
         t*=t;
-        if n%2==1:
-            t*=x
+        if k%2==1:
+            t*=i
         return t
 
 print(pow(2))
