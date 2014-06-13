@@ -17,11 +17,6 @@ dfvc
 
 
 
-
-vaga
-g
-cbx
-
 grd
 
 
@@ -34,3 +29,8 @@ grd
 gad
 gadf
 fg
+
+
+
+
+git je super:)
