@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 toto je podstatne
+=======
+toto je podstatne
+
+poctatna zmena
+>>>>>>> cd44acc...  podsatna zmena2
