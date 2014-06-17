@@ -3,6 +3,7 @@ ja sa
 volam
 karol
 
+1
 
 ahoj
 ahoj
