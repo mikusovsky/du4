@@ -2,10 +2,6 @@ ahoj
 ja sa
 volam
 karol
-<<<<<<< HEAD
-=======
-
-1
 >>>>>>> konflitna
 
 ahoj
