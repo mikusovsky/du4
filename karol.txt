@@ -7,3 +7,5 @@ karol
 ahoj
 ahoj
 ahoj
+
+modifikujem historiu
